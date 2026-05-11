@@ -16,7 +16,7 @@
         <!-- Default main; override with: mvn -DmainClass=BatchesPg exec:java -->
         <mainClass>StraightForwardMdb</mainClass>
     </properties>
-
+    
     <dependencies>
         <!-- MariaDB JDBC driver -->
         <dependency>
